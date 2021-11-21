@@ -1,7 +1,7 @@
-A- ¿Qué color de fondo tiene su página en el TESTING ?
-B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
-C- ¿Qué color de fondo tiene su página en el MASTER?
-D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+A- ¿Qué color de fondo tiene su página en el TESTING ? Azul
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ? Amarillo
+C- ¿Qué color de fondo tiene su página en el MASTER? Azul
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA? BETA
 E- ¿Algún integrante tuvo problemas al hacer el push?
 F- ¿Qué problemas surgieron?
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
